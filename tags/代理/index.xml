@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>代理 on Yoimiya的小站</title><link>https://github.com/12cjn/Yoimiya-Blog-Hugo.github.io/tags/%E4%BB%A3%E7%90%86/</link><description>Recent content from Yoimiya的小站</description><generator>Hugo</generator><language>zh-cn</language><managingEditor>xxx@example.com (D-Sketon)</managingEditor><webMaster>xxx@example.com (D-Sketon)</webMaster><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Sun, 01 Jun 2025 13:28:41 +0800</lastBuildDate><atom:link href="https://github.com/12cjn/Yoimiya-Blog-Hugo.github.io/tags/%E4%BB%A3%E7%90%86/index.xml" rel="self" type="application/rss+xml"/><item><title>API代理搭建</title><link>https://github.com/12cjn/Yoimiya-Blog-Hugo.github.io/post/api%E4%BB%A3%E7%90%86%E6%90%AD%E5%BB%BA/</link><pubDate>Sun, 01 Jun 2025 13:18:52 +0800</pubDate><author>xxx@example.com (D-Sketon)</author><guid>https://github.com/12cjn/Yoimiya-Blog-Hugo.github.io/post/api%E4%BB%A3%E7%90%86%E6%90%AD%E5%BB%BA/</guid><description>
+<![CDATA[<h1>API代理搭建</h1><p>作者：D-Sketon（xxx@example.com）</p>
+        
+          <h1 id="-如何在海外vps搭建代理服务让你的国内服务器访问open-ai等海外api的完整指南">
+<a class="header-anchor" href="#-%e5%a6%82%e4%bd%95%e5%9c%a8%e6%b5%b7%e5%a4%96vps%e6%90%ad%e5%bb%ba%e4%bb%a3%e7%90%86%e6%9c%8d%e5%8a%a1%e8%ae%a9%e4%bd%a0%e7%9a%84%e5%9b%bd%e5%86%85%e6%9c%8d%e5%8a%a1%e5%99%a8%e8%ae%bf%e9%97%aeopen-ai%e7%ad%89%e6%b5%b7%e5%a4%96api%e7%9a%84%e5%ae%8c%e6%95%b4%e6%8c%87%e5%8d%97"></a>
+🚀 如何在海外VPS搭建代理服务：让你的国内服务器访问Open AI等海外API的完整指南
+</h1><h2 id="-目录索引">
+<a class="header-anchor" href="#-%e7%9b%ae%e5%bd%95%e7%b4%a2%e5%bc%95"></a>
+📌 目录索引
+</h2><ol>
+<li>[🌐 为什么需要海外代理？](#🌐 为什么需要海外代理？)</li>
+<li>[🔍 选择合适的海外VPS服务商](#🔍 选择合适的海外VPS服务商)</li>
+<li>[💻 在VPS上安装SSH隧道服务](#💻 在VPS上安装SSH隧道服务)</li>
+<li>[🚀 配置国内服务器通过SSH隧道访问API](#🚀 配置国内服务器通过SSH隧道访问API)</li>
+<li>[🛡️ 代理服务的安全加固技巧](#🛡️ 代理服务的安全加固技巧)</li>
+<li>[💡 常见问题排查指南](#💡 常见问题排查指南)</li>
+</ol>
+<hr>
+<h2 id="-为什么需要海外代理">
+<a class="header-anchor" href="#-%e4%b8%ba%e4%bb%80%e4%b9%88%e9%9c%80%e8%a6%81%e6%b5%b7%e5%a4%96%e4%bb%a3%e7%90%86"></a>
+🌐 为什么需要海外代理？
+</h2><p>在互联网时代，很多优质服务都部署在海外服务器上（比如Open AI的API、Google Cloud API等）。由于国内网络环境的特殊性，直接访问这些服务可能会遇到以下问题：</p>
+        
+        <hr><p>本文2025-06-01首发于<a href='https://github.com/12cjn/Yoimiya-Blog-Hugo.github.io/'>Yoimiya的小站</a>，最后修改于2025-06-01</p>]]></description></item></channel></rss>
